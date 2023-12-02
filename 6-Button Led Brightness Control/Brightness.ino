@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 const int ledPin = 9;
 const int arttirButtonPin = 2;
 const int azaltButtonPin = 3;
